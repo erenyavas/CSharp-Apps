@@ -1,0 +1,14 @@
+C:\Users\eeren\source\repos\OOP-Samples\DifferentNumbers\bin\Debug\net7.0\DifferentNumbers.exe
+C:\Users\eeren\source\repos\OOP-Samples\DifferentNumbers\bin\Debug\net7.0\DifferentNumbers.deps.json
+C:\Users\eeren\source\repos\OOP-Samples\DifferentNumbers\bin\Debug\net7.0\DifferentNumbers.runtimeconfig.json
+C:\Users\eeren\source\repos\OOP-Samples\DifferentNumbers\bin\Debug\net7.0\DifferentNumbers.dll
+C:\Users\eeren\source\repos\OOP-Samples\DifferentNumbers\bin\Debug\net7.0\DifferentNumbers.pdb
+C:\Users\eeren\source\repos\OOP-Samples\DifferentNumbers\obj\Debug\net7.0\DifferentNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eeren\source\repos\OOP-Samples\DifferentNumbers\obj\Debug\net7.0\DifferentNumbers.AssemblyInfoInputs.cache
+C:\Users\eeren\source\repos\OOP-Samples\DifferentNumbers\obj\Debug\net7.0\DifferentNumbers.AssemblyInfo.cs
+C:\Users\eeren\source\repos\OOP-Samples\DifferentNumbers\obj\Debug\net7.0\DifferentNumbers.csproj.CoreCompileInputs.cache
+C:\Users\eeren\source\repos\OOP-Samples\DifferentNumbers\obj\Debug\net7.0\DifferentNumbers.dll
+C:\Users\eeren\source\repos\OOP-Samples\DifferentNumbers\obj\Debug\net7.0\refint\DifferentNumbers.dll
+C:\Users\eeren\source\repos\OOP-Samples\DifferentNumbers\obj\Debug\net7.0\DifferentNumbers.pdb
+C:\Users\eeren\source\repos\OOP-Samples\DifferentNumbers\obj\Debug\net7.0\DifferentNumbers.genruntimeconfig.cache
+C:\Users\eeren\source\repos\OOP-Samples\DifferentNumbers\obj\Debug\net7.0\ref\DifferentNumbers.dll
